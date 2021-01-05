@@ -29,7 +29,6 @@ Find me on:
 
 [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kks110) [![Linked In](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-samuel-0910b92a/)
 
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html" alt="Martin's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=27&include_all_commits=true" />
-<p>
+
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=27&include_all_commits=true" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html&layout=compact" alt="Martin's GitHub Stats" />
