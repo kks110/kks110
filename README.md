@@ -1,6 +1,6 @@
 ### Hi I'm Kelvin and I am a backend software developer at [SimplyBusiness](www.simplybusiness.co.uk).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html&layout=compact" alt="Martin's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html,PLpgSQL&layout=compact" alt="Kelvins's GitHub Stats" />
 
 -----------------------
 
@@ -12,7 +12,7 @@
 
 ### 🌱 I'm currently playing around with:
 
- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) 
+ ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 -----------------------
 
