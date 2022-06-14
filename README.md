@@ -1,6 +1,6 @@
 ### Hi I'm Kelvin and I am a backend software developer at [SimplyBusiness](www.simplybusiness.co.uk).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html,PLpgSQL&layout=compact" alt="Kelvins's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html,PLpgSQL,JavaScript&layout=compact" alt="Kelvins's GitHub Stats" />
 
 -----------------------
 
