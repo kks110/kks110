@@ -12,7 +12,7 @@
 
 ### 🌱 I'm currently playing around with:
 
- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) 
+ ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua&style=for-the-badge)
 
 -----------------------
 
