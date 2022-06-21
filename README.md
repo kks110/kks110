@@ -1,6 +1,11 @@
 ### Hi I'm Kelvin and I am a backend software developer at [SimplyBusiness](www.simplybusiness.co.uk).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=6&hide=html,PLpgSQL,JavaScript&layout=compact" alt="Kelvins's GitHub Stats" />
+<a href="https://github.com/kks110/">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true&theme=github_dark)" />
+</a>
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/kks110/)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=8&hide=JavaScript&layout=compact&theme=github_dark" />
+</a>
 
 -----------------------
 
