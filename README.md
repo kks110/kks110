@@ -1,12 +1,5 @@
 ### Hi I'm Kelvin and I am a backend software developer at [SimplyBusiness](www.simplybusiness.co.uk).
 
-<a href="https://github.com/kks110/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kks110&langs_count=8&hide=JavaScript&layout=compact&theme=github_dark" />
-</a>
-<a href="https://github.com/kks110/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kks110&count_private=true&show_icons=true&line_height=20&include_all_commits=true&theme=github_dark" />
-</a>
-
 -----------------------
 
 ### 💻 I work with:
@@ -17,7 +10,7 @@
 
 ### 🌱 I'm currently playing around with:
 
- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua&style=for-the-badge)
+ ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white) ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 -----------------------
 
